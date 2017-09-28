@@ -1,0 +1,11 @@
+C:\dev\vdu\Melon - Kopie\Melon\bin\Debug\Melon.exe.config
+C:\dev\vdu\Melon - Kopie\Melon\obj\Debug\Melon.exe
+C:\dev\vdu\Melon - Kopie\Melon\obj\Debug\Melon.pdb
+C:\dev\vdu\Melon\Melon\bin\Debug\Melon.exe.config
+C:\dev\vdu\Melon\Melon\bin\Debug\Melon.exe
+C:\dev\vdu\Melon\Melon\bin\Debug\Melon.pdb
+C:\dev\vdu\Melon\Melon\obj\Debug\Melon.Properties.Resources.resources
+C:\dev\vdu\Melon\Melon\obj\Debug\Melon.csproj.GenerateResource.Cache
+C:\dev\vdu\Melon\Melon\obj\Debug\Melon.exe
+C:\dev\vdu\Melon\Melon\obj\Debug\Melon.pdb
+C:\dev\vdu\Melon\Melon\obj\Debug\Melon.csprojResolveAssemblyReference.cache

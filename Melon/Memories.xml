@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <memories>
+    <input>vs</input>
+    <type>process</type>
+    <source>C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\devenv.exe</source>
+  </memories>
+  <memories>
+    <input>downloads</input>
+    <type>explorer</type>
+    <source>C:\Users\Hazechen\Downloads</source>
+  </memories>
+  <memories>
+    <input>notepad</input>
+    <type>process</type>
+    <source>notepad++.exe</source>
+  </memories>
+  <memories>
+    <input>whatsapp</input>
+    <type>browser</type>
+    <source>https://web.whatsapp.com/</source>
+  </memories>
+  <memories>
+    <input>facebook</input>
+    <type>browser</type>
+    <source>https://www.facebook.com/</source>
+  </memories>
+  <memories>
+    <input>chrome</input>
+    <type>process</type>
+    <source>chrome.exe</source>
+  </memories>
+  <memories>
+    <input>twitter</input>
+    <type>browser</type>
+    <source>https://twitter.com/</source>
+  </memories>
+</DocumentElement>

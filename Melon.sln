@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melon", "Melon\Melon.csproj", "{696C4FFD-D8EA-4852-8E72-767B85A058DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logic", "Logic", "{CF51FA6C-A56B-4CDA-B8FC-DE2D548FD35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCompleteUtils", "Melon\Logic\AutoCompleteUtils\AutoCompleteUtils.csproj", "{E93CED0B-C4F6-4455-8E5D-17076F12AD10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUtils", "Melon\Logic\ConsoleUtils\ConsoleUtils.csproj", "{CF1C083E-EE8E-4A1B-B503-0C39C0A7F8B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696C4FFD-D8EA-4852-8E72-767B85A058DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696C4FFD-D8EA-4852-8E72-767B85A058DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696C4FFD-D8EA-4852-8E72-767B85A058DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696C4FFD-D8EA-4852-8E72-767B85A058DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93CED0B-C4F6-4455-8E5D-17076F12AD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93CED0B-C4F6-4455-8E5D-17076F12AD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93CED0B-C4F6-4455-8E5D-17076F12AD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93CED0B-C4F6-4455-8E5D-17076F12AD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1C083E-EE8E-4A1B-B503-0C39C0A7F8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1C083E-EE8E-4A1B-B503-0C39C0A7F8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1C083E-EE8E-4A1B-B503-0C39C0A7F8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1C083E-EE8E-4A1B-B503-0C39C0A7F8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E93CED0B-C4F6-4455-8E5D-17076F12AD10} = {CF51FA6C-A56B-4CDA-B8FC-DE2D548FD35D}
+		{CF1C083E-EE8E-4A1B-B503-0C39C0A7F8B4} = {CF51FA6C-A56B-4CDA-B8FC-DE2D548FD35D}
+	EndGlobalSection
+EndGlobal

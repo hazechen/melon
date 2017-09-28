@@ -1,0 +1,10 @@
+C:\Users\vdu\Desktop\AutoCompleteConsole_V4.0\AutoCompleteUtils\bin\Debug\AutoCompleteUtils.dll
+C:\Users\vdu\Desktop\AutoCompleteConsole_V4.0\AutoCompleteUtils\bin\Debug\AutoCompleteUtils.pdb
+C:\Users\vdu\Desktop\AutoCompleteConsole_V4.0\AutoCompleteUtils\obj\Debug\AutoCompleteUtils.csprojResolveAssemblyReference.cache
+C:\Users\vdu\Desktop\AutoCompleteConsole_V4.0\AutoCompleteUtils\obj\Debug\AutoCompleteUtils.dll
+C:\Users\vdu\Desktop\AutoCompleteConsole_V4.0\AutoCompleteUtils\obj\Debug\AutoCompleteUtils.pdb
+C:\dev\vdu\Melon\Melon\Logic\AutoCompleteUtils\bin\Debug\AutoCompleteUtils.dll
+C:\dev\vdu\Melon\Melon\Logic\AutoCompleteUtils\bin\Debug\AutoCompleteUtils.pdb
+C:\dev\vdu\Melon\Melon\Logic\AutoCompleteUtils\obj\Debug\AutoCompleteUtils.dll
+C:\dev\vdu\Melon\Melon\Logic\AutoCompleteUtils\obj\Debug\AutoCompleteUtils.pdb
+C:\dev\vdu\Melon\Melon\Logic\AutoCompleteUtils\obj\Debug\AutoCompleteUtils.csprojResolveAssemblyReference.cache
